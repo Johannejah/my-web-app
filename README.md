@@ -1,2 +1,2 @@
 # my-web-app
-This is my git repo for my git class
+This is my git repo
